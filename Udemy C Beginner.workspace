@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Udemy C Beginner" Database="" Version="10000">
+  <Project Name="helloworld" Path="helloworld/helloworld.project" Active="No"/>
+  <Project Name="favnum" Path="favnum/favnum.project" Active="No"/>
+  <Project Name="printmyname" Path="printname/printname.project" Active="No"/>
+  <Project Name="inputprac" Path="inputprac/inputprac.project" Active="No"/>
+  <Project Name="enumprac" Path="enumprac/enumprac.project" Active="No"/>
+  <Project Name="AreaPerimeter" Path="AreaPerimeter/AreaPerimeter.project" Active="No"/>
+  <Project Name="menu" Path="menu/menu.project" Active="No"/>
+  <Project Name="minuites2days" Path="minuites2days/minuites2days.project" Active="No"/>
+  <Project Name="arrayinput" Path="arrayinput/arrayinput.project" Active="No"/>
+  <Project Name="circumferenceprog" Path="circumferenceprog/circumferenceprog.project" Active="No"/>
+  <Project Name="hypotenuse" Path="hypotenuse/hypotenuse.project" Active="No"/>
+  <Project Name="tempconvert" Path="tempconvert/tempconvert.project" Active="No"/>
+  <Project Name="calculator" Path="calcultor/calcultor.project" Active="No"/>
+  <Project Name="prime" Path="prime/prime.project" Active="No"/>
+  <Project Name="mathffunc" Path="mathffunc/mathffunc/mathffunc.project" Active="No"/>
+  <Project Name="learnfunctions" Path="learnfunctions/learnfunctions.project" Active="No"/>
+  <Project Name="weekly_pay" Path="weekly_pay/weekly_pay.project" Active="No"/>
+  <Project Name="occurence" Path="occurence/occurence.project" Active="No"/>
+  <Project Name="guessing_game" Path="guessing_game/guessing_game.project" Active="No"/>
+  <Project Name="dino" Path="dino/dino.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="favnum" ConfigName="Debug"/>
+      <Project Name="helloworld" ConfigName="Debug"/>
+      <Project Name="inputprac" ConfigName="Debug"/>
+      <Project Name="printmyname" ConfigName="Debug"/>
+      <Project Name="enumprac" ConfigName="Debug"/>
+      <Project Name="AreaPerimeter" ConfigName="Debug"/>
+      <Project Name="menufunc." ConfigName="Debug"/>
+      <Project Name="menu" ConfigName="Debug"/>
+      <Project Name="minuites2days" ConfigName="Debug"/>
+      <Project Name="arrayinput" ConfigName="Debug"/>
+      <Project Name="circumferenceprog" ConfigName="Debug"/>
+      <Project Name="hypotenuse" ConfigName="Debug"/>
+      <Project Name="tempconvert" ConfigName="Debug"/>
+      <Project Name="calculator" ConfigName="Debug"/>
+      <Project Name="prime" ConfigName="Debug"/>
+      <Project Name="mathffunc" ConfigName="Debug"/>
+      <Project Name="learnfunctions" ConfigName="Debug"/>
+      <Project Name="weekly_pay" ConfigName="Debug"/>
+      <Project Name="occurence" ConfigName="Debug"/>
+      <Project Name="guessing_game" ConfigName="Debug"/>
+      <Project Name="dino" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="helloworld" ConfigName="Release"/>
+      <Project Name="favnum" ConfigName="Release"/>
+      <Project Name="printmyname" ConfigName="Release"/>
+      <Project Name="inputprac" ConfigName="Release"/>
+      <Project Name="enumprac" ConfigName="Release"/>
+      <Project Name="AreaPerimeter" ConfigName="Release"/>
+      <Project Name="menufunc." ConfigName="Release"/>
+      <Project Name="menu" ConfigName="Release"/>
+      <Project Name="minuites2days" ConfigName="Release"/>
+      <Project Name="arrayinput" ConfigName="Release"/>
+      <Project Name="circumferenceprog" ConfigName="Release"/>
+      <Project Name="hypotenuse" ConfigName="Release"/>
+      <Project Name="tempconvert" ConfigName="Release"/>
+      <Project Name="calculator" ConfigName="Release"/>
+      <Project Name="prime" ConfigName="Release"/>
+      <Project Name="mathffunc" ConfigName="Release"/>
+      <Project Name="learnfunctions" ConfigName="Release"/>
+      <Project Name="weekly_pay" ConfigName="Release"/>
+      <Project Name="occurence" ConfigName="Release"/>
+      <Project Name="guessing_game" ConfigName="Release"/>
+      <Project Name="dino" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
